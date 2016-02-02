@@ -1,4 +1,4 @@
-<h2>Paypal Standarad plugin customization and upgraded in nopcommerce 3.70 by Professionals Peers Info Services Pvt. Ltd.</h2>
+<h2>Paypal Standarad plugin customization in nopcommerce 3.70 by Professionals Peers Info Services Pvt. Ltd.</h2>
 
 <h3>Support:</h3>
 Our Support team can help you at any time. You can contact us for more information by dropping an email to sales@propeersinfo.com.
